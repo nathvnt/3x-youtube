@@ -5,7 +5,7 @@ a video element being rendered on any webpage
 (designed to target YouTube videos) and modifies
 the HTMLMediaElement playbackRate property
 with a custom value specified through the
-browsers extensions user interface. <br/>
+browser extensions user interface. <br/>
 
 By default YouTube has a limit of 2x default speed
 when setting custom a playback rate for a video. 
