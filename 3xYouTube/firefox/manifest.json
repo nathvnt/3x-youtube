@@ -4,8 +4,10 @@
   "version": "1.0",
   "description": "Increase YouTube playback speed beyond 2x",
   "permissions": [
-      "activeTab",
-      "storage",
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
       "*://www.youtube.com/*"
   ],
   "background": {
@@ -29,7 +31,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "3xyoutube@somedomain.com",
+      "id": "3xyoutube@ipflux.io",
       "strict_min_version": "109.0"
     }
   }
