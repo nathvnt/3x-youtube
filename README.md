@@ -9,9 +9,8 @@ browser extensions user interface. <br/>
 
 By default YouTube has a limit of 2x default speed
 when setting custom a playback rate for a video. 
-This browser extension allows users to set custom 
-playback speeds of up to 10x the default value (and 
-anywhere inbetween). <br/>
+This browser extension allows users to easily set custom 
+playback speeds of up to 10x the default value. <br/>
 
 ## Browser Compatibility 
 
