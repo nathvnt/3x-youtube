@@ -1,4 +1,4 @@
-### 3xYouTube Browser Extension Privacy Policy 
+## 3xYouTube Browser Extension Privacy Policy 
 
 ***Last Updated: February 2025***
 <br/>
@@ -10,17 +10,15 @@ The ***3xYouTube*** extension does ***not*** collect, store, or transmit any per
 
 ## 2. Data Usage 
 
-    - The extension uses the ***storage API*** only to remember the last playback speed set by the user.
-    - This data is ***not transmitted*** outside your browser.
-    - The extension does ***not*** use analytics, tracking, or third-party services.
-<br/>
+* The extension uses the ***storage API*** only to remember the last playback speed set by the user.
+* This data is ***not transmitted*** outside your browser.
+* The extension does ***not*** use analytics, tracking, or third-party services.
 
 ## 3. Permissions Justification 
 
-    - "storage" → Saves user preferences for video playback speed.
-    - "activeTab" → Enables communication between the extension popup and YouTube videos.
-    - "host_permissions: *://www.youtube.com/" → Required to modify video playback speeds on YouTube.
-<br/>
+* "storage" → Saves user preferences for video playback speed.
+* "activeTab" → Enables communication between the extension popup and YouTube videos.
+* "host_permissions: *://www.youtube.com/" → Required to modify video playback speeds on YouTube.
 
 ## 4. Contact
 
