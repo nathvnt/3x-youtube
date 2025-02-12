@@ -18,3 +18,5 @@ This repository contains two versions, one which
 utilizes JSON Manifest V3 designed to work with Chrome 
 based browsers, and another version compatible with FireFox
 that utilizes Manifest V2.
+
+Available for FireFox here: [https://addons.mozilla.org/en-US/firefox/addon/3xyoutube/](https://addons.mozilla.org/en-US/firefox/addon/3xyoutube/)
